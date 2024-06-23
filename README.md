@@ -4,8 +4,8 @@
 
 In this project, I am going to analyze the CRM sales data of a prestigious female fashion brand, I will use both Python and SQL to analyze it: 
 
-* to check my python answer worksheet, please click on:
-* to check my SQL answer worksheet on big query, click on: 
+* to check my python answer worksheet, please click on: https://github.com/Junjiecode/Python-CRM-sales-data-analyst-/edit/main/README.md 
+* to check my SQL answer worksheet on big query, click on: https://console.cloud.google.com/bigquery?sq=704847300197:813fa6fcbf81419381b96ec5003398c7
 
 ## Instruction 
 
